@@ -1,0 +1,3 @@
+Das ist mein erstes RoR Projekt mit dem Tutorial von M. Hartl....
+
+Der Beginn von etwas größerem!
